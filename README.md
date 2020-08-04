@@ -8,7 +8,7 @@
   
   
 ##### Hard Skill
-- Java 8;
+- Java SE8
 - Spring Framework (Boot, Data)
 - API Rest
 - PostgreSql
