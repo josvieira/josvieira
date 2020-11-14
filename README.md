@@ -1,24 +1,27 @@
 ### Hi there 👋
 
 #### Josiene Vieira Nascimento Dourado
- ##### - Desenvolvedor Java Júnior
+ ##### - Desenvolvedora Java Júnior
 
   -  josienevieira20@gmail.com
   -  linkedin.com/in/josienevieira
+  -  Visualizar [currículo](https://www.canva.com/design/DAEDhmhfryY/AaN53cZWsTD5n3IjptxKAQ/view?utm_content=DAEDhmhfryY&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton) completo
+  -  Meus [artigos](https://medium.com/@josienevieira20) no Medium 
   
   
 ##### Hard Skill
 - Java SE8
-- Spring Framework (Boot, Data)
+- Spring Framework (MVC, Boot, Data JPA)
 - API Rest
 - PostgreSql
 - Conceitos de BD NoSql
-- JUnit
+- Teste Unitário com JUnit
 - TDD
 - Maven
+- API Documentaion Swagger
 - IntelliJ IDEA, Eclipse/STS
 - Heroku
-- Conceitos de Container e Cloud
+- Docker
 - HTML 5
 - CSS 3 
 - Javascript
@@ -27,9 +30,9 @@
 
 ### Atividades Atuais
 
-- 🔭 Projeto Pessoal Atual - [Crud com Spring Boot](https://github.com/josvieira/Crud-Spring-Boot)
-- 🌱 Aprendento no momento: Testes Unitários [JUnit](https://github.com/josvieira/Testes-Com-JUnit) [Mockito]
-- 👯 Colaborando atualmente com um projeto da comunidade [DevJavaGirls](https://github.com/devs-javagirl/member)
+- 🔭 Projeto Pessoal - [Crud com Spring Boot](https://github.com/josvieira/Crud-Spring-Boot). Concluído. As orientações para apreciação da API estão no README do projeto
+- 👯 Colaborando atualmente com um [projeto](https://github.com/psanrosa13/gerenciador) da comunidade PerifaCode e participando de encontros semanais para estudar Java e discutir a respeito desse projeto.
+- Próximo projeto: Software de venda para loja de varejo do ramo de roupas. Para isso começarei a estudar Angular, para fazer o software completo.
 
 
 <!--
