@@ -1,6 +1,6 @@
 ## Josiene Vieira Nascimento Dourado
 
-## Desenvolvedora Java Júnior
+## Desenvolvedora Backend
 
 ### Redes Sociais Profissionais e Currículo
  
