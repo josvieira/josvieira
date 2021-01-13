@@ -17,13 +17,13 @@
   <img align="left" alt="Devto" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/medium.svg" />
 </a>
 <a target="_blank" href="https://www.canva.com/design/DAEDhmhfryY/AaN53cZWsTD5n3IjptxKAQ/view?utm_content=DAEDhmhfryY&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton" alt="Currículo Completo">
-  <img align="left" alt="Devto" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/canva.svg" />
+  <img align="left" alt="Canva" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/canva.svg" />
 </a>
 
-### Github Stats
+
+## Github Stats
 ![Josvieira GitHub Stats](https://github-readme-stats.vercel.app/api?username=josvieira&show_icons=true)
 
- 
   
 #### Hard Skill
 <!--<code><img height="40" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"></code> -->
